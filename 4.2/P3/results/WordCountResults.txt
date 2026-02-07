@@ -1,0 +1,14 @@
+WORD COUNT RESULTS
+------------------
+DISTINCT WORDS: 8
+
+es: 1
+esto: 1
+hola: 2
+mundo: 3
+prueba: 2
+python: 3
+una: 2
+¿hola: 1
+
+Elapsed time (seconds): 0.000924
