@@ -1,0 +1,19 @@
+NUMBER CONVERSION RESULTS
+-------------------------
+FORMAT: DECIMAL -> BINARY | HEX
+
+10 -> 1010 | A
+15 -> 1111 | F
+16 -> 10000 | 10
+31 -> 11111 | 1F
+255 -> 11111111 | FF
+0 -> 0 | 0
+-7 -> -111 | -7
+64 -> 1000000 | 40
+
+Errors found while reading the file (execution continued):
+Line 8: invalid integer 'hola' (skipped).
+Line 9: invalid integer '12.5' (skipped).
+Line 10: empty line (skipped).
+
+Elapsed time (seconds): 0.000271
